@@ -1,2 +1,2 @@
 hello world
-new newbranch
+new newbranch add newbranch
